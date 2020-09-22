@@ -1,0 +1,157 @@
+﻿.ax_default {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+.box_2 {
+}
+.tall_text {
+  font-family:'Century Gothic Обычный', 'Century Gothic', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:25px;
+  text-align:left;
+}
+.mid_text {
+  font-family:'Century Gothic Обычный', 'Century Gothic', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#6A6A6A;
+  text-align:left;
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
+.heading_1 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.cloud_tags {
+  font-family:'Century Gothic Обычный', 'Century Gothic', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#6A6A6A;
+}
+.duprocar_2 {
+  font-family:'Century Gothic Обычный', 'Century Gothic', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#6A6A6A;
+  text-align:left;
+}
+.edu_procar1 {
+  font-family:'Century Gothic Обычный', 'Century Gothic', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:25px;
+  color:#6A6A6A;
+  text-align:left;
+}
+.tall_text1 {
+  font-family:'OCR-A normal', 'OCR-A', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:30px;
+  letter-spacing:0.3px;
+  color:#4F4F4F;
+  text-align:left;
+}
+.list_text {
+  font-family:'OCR-A normal', 'OCR-A', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:22px;
+  letter-spacing:1.1px;
+  color:rgba(79, 79, 79, 0.996078431372549);
+  text-align:left;
+  line-height:34px;
+}
+.box_text {
+  font-family:'OCR-A normal', 'OCR-A', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:24px;
+  letter-spacing:1.1px;
+  color:rgba(79, 79, 79, 0.996078431372549);
+  text-align:left;
+  line-height:40px;
+}
+.link_button {
+  color:#169BD5;
+}
+.small_text {
+  font-family:'OCR-A normal', 'OCR-A', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  letter-spacing:1.1px;
+}
+.talltext {
+}
+textarea, select, input, button { outline: none; }
